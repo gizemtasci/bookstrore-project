@@ -1,0 +1,271 @@
+﻿------------------------
+Session is starting...
+Username: MT
+Session Started: 14.06.2017 15:02:11
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:02:13
+Button : Alışveriş Geçmişim Clicked, Event Time : 14.06.2017 15:02:16
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:02:20
+Button : Alışveriş Geçmişim Clicked, Event Time : 14.06.2017 15:02:23
+Button : Sipariş İptal Clicked, Event Time : 14.06.2017 15:02:27
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:02:28
+Button : MÜZİK Clicked, Event Time : 14.06.2017 15:02:28
+Button : Sepeti Onayla Clicked, Event Time : 14.06.2017 15:02:33
+Button : Öde Clicked, Event Time : 14.06.2017 15:02:44
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:02:51
+Button : KİTAP Clicked, Event Time : 14.06.2017 15:02:53
+Button : Sepete Ekle Clicked, Event Time : 14.06.2017 15:02:55
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:02:57
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:02:58
+Button : KİTAP Clicked, Event Time : 14.06.2017 15:03:00
+Button : Sepete Ekle Clicked, Event Time : 14.06.2017 15:03:02
+Button : Sepete Ekle Clicked, Event Time : 14.06.2017 15:03:08
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:03:09
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:03:11
+Session Ended: 14.06.2017 15:03:13
+Session Duration 1,00min
+
+------------------------
+Session is starting...
+Username: Admin
+Session Started: 14.06.2017 15:03:29
+Button : Güncelle Clicked, Event Time : 14.06.2017 15:03:35
+Button : Üyeleri Görüntüle Clicked, Event Time : 14.06.2017 15:03:43
+Button : Kullanıcıyı Sil Clicked, Event Time : 14.06.2017 15:03:58
+Button : Geri Clicked, Event Time : 14.06.2017 15:04:04
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:04:10
+Session Ended: 14.06.2017 15:04:13
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: OKT
+Session Started: 14.06.2017 15:04:20
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:04:23
+Button : Alışveriş Geçmişim Clicked, Event Time : 14.06.2017 15:04:25
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:04:26
+Button : KİTAP Clicked, Event Time : 14.06.2017 15:04:27
+Button : Sepetten Çıkar Clicked, Event Time : 14.06.2017 15:04:31
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:04:39
+Session Ended: 14.06.2017 15:04:40
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: AAT
+Session Started: 14.06.2017 15:04:45
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:04:46
+Button : Alışveriş Geçmişim Clicked, Event Time : 14.06.2017 15:04:49
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:04:50
+Button : MÜZİK Clicked, Event Time : 14.06.2017 15:04:51
+Button : Sepete Ekle Clicked, Event Time : 14.06.2017 15:05:08
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:05:16
+Session Ended: 14.06.2017 15:05:17
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: AGB
+Session Started: 14.06.2017 15:05:28
+Button : MÜZİK Clicked, Event Time : 14.06.2017 15:05:31
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:05:41
+Session Ended: 14.06.2017 15:05:43
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: AAT
+Session Started: 14.06.2017 15:05:53
+Button : KİTAP Clicked, Event Time : 14.06.2017 15:05:55
+Button : Sepetten Çıkar Clicked, Event Time : 14.06.2017 15:06:24
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:06:41
+Session Ended: 14.06.2017 15:06:43
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: MT
+Session Started: 14.06.2017 15:57:45
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:57:47
+Button : DERGİ Clicked, Event Time : 14.06.2017 15:57:49
+Button : Sepete Ekle Clicked, Event Time : 14.06.2017 15:57:56
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:58:03
+Session Ended: 14.06.2017 15:58:11
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: MT
+Session Started: 14.06.2017 15:58:24
+Button : DERGİ Clicked, Event Time : 14.06.2017 15:58:26
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:58:29
+Session Ended: 14.06.2017 15:58:30
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: MT
+Session Started: 14.06.2017 15:59:00
+Button : Sepetim Clicked, Event Time : 14.06.2017 15:59:01
+Button : Alışveriş Geçmişim Clicked, Event Time : 14.06.2017 15:59:04
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:59:06
+Button : DERGİ Clicked, Event Time : 14.06.2017 15:59:07
+Button : Sepete Ekle Clicked, Event Time : 14.06.2017 15:59:20
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:59:21
+Session Ended: 14.06.2017 15:59:23
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: MT
+Session Started: 14.06.2017 15:59:32
+Button : DERGİ Clicked, Event Time : 14.06.2017 15:59:33
+Button : Sepetten Çıkar Clicked, Event Time : 14.06.2017 15:59:50
+Button : Ana Menü Clicked, Event Time : 14.06.2017 15:59:52
+Session Ended: 14.06.2017 15:59:54
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: MT
+Session Started: 14.06.2017 16:00:01
+Button : Sepetim Clicked, Event Time : 14.06.2017 16:00:02
+Button : DERGİ Clicked, Event Time : 14.06.2017 16:00:04
+Button : Ana Menü Clicked, Event Time : 14.06.2017 16:00:08
+Session Ended: 14.06.2017 16:00:09
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: burcu
+Session Started: 17.05.2018 21:29:23
+Button : KİTAP Clicked, Event Time : 17.05.2018 21:29:27
+Button : Sepete Ekle Clicked, Event Time : 17.05.2018 21:29:29
+Button : Sepete Ekle Clicked, Event Time : 17.05.2018 21:29:32
+Button : Sepeti Onayla Clicked, Event Time : 17.05.2018 21:29:35
+Button : Sepetten Çıkar Clicked, Event Time : 17.05.2018 21:29:56
+Button : Alışveriş Geçmişim Clicked, Event Time : 17.05.2018 21:29:58
+Button : Ana Menü Clicked, Event Time : 17.05.2018 21:30:07
+Session Ended: 17.05.2018 21:30:09
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: burcu
+Session Started: 17.05.2018 21:31:10
+Session Ended: 17.05.2018 21:31:13
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 4.05.2019 17:18:28
+Button : Alışveriş Geçmişim Clicked, Event Time : 4.05.2019 17:18:32
+Button : Ana Menü Clicked, Event Time : 4.05.2019 17:18:37
+Session Ended: 4.05.2019 17:18:42
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 5.05.2019 01:51:20
+Button : KİTAP Clicked, Event Time : 5.05.2019 01:51:55
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 01:52:04
+Button : Sepeti Onayla Clicked, Event Time : 5.05.2019 01:52:37
+Button : Öde Clicked, Event Time : 5.05.2019 01:53:42
+Button : Ana Menü Clicked, Event Time : 5.05.2019 01:54:23
+Session Ended: 5.05.2019 01:54:27
+Session Duration 3,00min
+
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 5.05.2019 21:32:28
+Button : KİTAP Clicked, Event Time : 5.05.2019 21:32:33
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:32:42
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:32:49
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:33:00
+Button : Sepeti Onayla Clicked, Event Time : 5.05.2019 21:33:04
+Button : Öde Clicked, Event Time : 5.05.2019 21:33:38
+Button : Ana Menü Clicked, Event Time : 5.05.2019 21:33:47
+Session Ended: 5.05.2019 21:33:50
+Session Duration 1,00min
+
+------------------------
+Session is starting...
+Username: hazelele
+Session Started: 5.05.2019 21:34:47
+Button : Alışveriş Geçmişim Clicked, Event Time : 5.05.2019 21:34:57
+Button : Ana Menü Clicked, Event Time : 5.05.2019 21:35:00
+Button : DERGİ Clicked, Event Time : 5.05.2019 21:35:04
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:10
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:13
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:26
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:30
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:39
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:42
+Button : Sepete Ekle Clicked, Event Time : 5.05.2019 21:35:45
+Button : Sepeti Onayla Clicked, Event Time : 5.05.2019 21:35:52
+Button : Öde Clicked, Event Time : 5.05.2019 21:36:23
+Button : Sipariş İptal Clicked, Event Time : 5.05.2019 21:36:34
+Button : Ana Menü Clicked, Event Time : 5.05.2019 21:36:37
+Session Ended: 5.05.2019 21:36:38
+Session Duration 1,00min
+
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 7.05.2019 13:43:20
+Button : Sepetim Clicked, Event Time : 7.05.2019 13:43:22
+Session Ended: 7.05.2019 13:43:29
+Session Duration 0,00min
+
+Button : Ekle Clicked, Event Time : 7.05.2019 13:44:04
+Button : Güncelle Clicked, Event Time : 7.05.2019 13:44:06
+Button : Güncelle Clicked, Event Time : 7.05.2019 13:44:09
+Button : Üyeleri Görüntüle Clicked, Event Time : 7.05.2019 13:44:13
+Button : Kullanıcıyı Sil Clicked, Event Time : 7.05.2019 13:44:29
+Button : Geri Clicked, Event Time : 7.05.2019 13:44:35
+Button : Kullanıcı Hareketleri Clicked, Event Time : 7.05.2019 13:44:37
+Button : Ana Menü Clicked, Event Time : 7.05.2019 13:46:03
+Button : Ana Menü Clicked, Event Time : 7.05.2019 13:46:10
+Button : Ana Menü Clicked, Event Time : 7.05.2019 13:46:44
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 7.05.2019 13:47:12
+Button : DERGİ Clicked, Event Time : 7.05.2019 13:47:13
+Button : Sepete Ekle Clicked, Event Time : 7.05.2019 13:47:17
+Button : Ana Menü Clicked, Event Time : 7.05.2019 13:47:20
+Session Ended: 7.05.2019 13:47:24
+Session Duration 0,00min
+
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 7.05.2019 13:47:33
+Button : MÜZİK Clicked, Event Time : 7.05.2019 13:47:36
+Button : Sepete Ekle Clicked, Event Time : 7.05.2019 13:47:39
+Button : Sepetten Çıkar Clicked, Event Time : 7.05.2019 13:47:50
+Button : Sepete Ekle Clicked, Event Time : 7.05.2019 13:47:53
+Button : Sepeti Onayla Clicked, Event Time : 7.05.2019 13:47:54
+Button : Öde Clicked, Event Time : 7.05.2019 13:49:06
+Button : Sipariş İptal Clicked, Event Time : 7.05.2019 13:49:20
+Button : Ana Menü Clicked, Event Time : 7.05.2019 13:49:26
+Button : Sepetim Clicked, Event Time : 7.05.2019 13:49:27
+Button : Alışveriş Geçmişim Clicked, Event Time : 7.05.2019 13:49:30
+Button : Ana Menü Clicked, Event Time : 7.05.2019 13:49:31
+Session Ended: 7.05.2019 13:49:47
+Session Duration 2,00min
+
+------------------------
+Session is starting...
+Username: fatma
+Session Started: 7.05.2019 15:22:07
+Button : Sepetim Clicked, Event Time : 7.05.2019 15:22:09
+Button : Alışveriş Geçmişim Clicked, Event Time : 7.05.2019 15:22:11
+Button : Ana Menü Clicked, Event Time : 7.05.2019 15:22:13
+Button : MÜZİK Clicked, Event Time : 7.05.2019 15:22:15
+Button : Ana Menü Clicked, Event Time : 7.05.2019 15:22:49
+Session Ended: 7.05.2019 15:22:51
+Session Duration 0,00min
+

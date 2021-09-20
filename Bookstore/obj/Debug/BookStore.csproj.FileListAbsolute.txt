@@ -1,0 +1,176 @@
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\bin\Debug\BookStore.exe.config
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\bin\Debug\BookStore.exe
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\bin\Debug\BookStore.pdb
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.exe
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.pdb
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.FormHome.resources
+D:\Downloads\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore-master-00c95d1fa1e8ab5ce4c2d1712cb4e7bc3c2b58ff\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Mehmet Tuğlacı\Desktop\OOP2 Project\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Mehmet Tuğlacı\Desktop\OOP2 Project\BookStore\obj\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Desktop\OOP2 Project\BookStore\obj\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\AG\Desktop\Repo Bookstore\BookStore\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\bin\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore Again&Again\BookStore\bin\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.exe
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\bin\Debug\BookStore.exe
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\bin\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\AG\Desktop\Bookstore Again&Again\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Downloads\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.exe
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.pdb
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\AG\Desktop\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormWishList.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.FormWishList.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\Bookstore-master-9a71d4721c420814fe85435e26826dfd2c2a42c5\BookStore\obj\Debug\BookStore.pdb
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\bin\Debug\BookStore.exe.config
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.exe
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.pdb
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\bin\Debug\BookStore.exe
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\bin\Debug\BookStore.pdb
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.FormAdmin.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.FormHome.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.FormLogin.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.FormShopping.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.FormSingUp.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.FormWishList.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+G:\Belgelerim\Visual Studio 2015\Projects\Bookstore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormWishList.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Mehmet Tuğlacı\Downloads\Compressed\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormWishList.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Burcu Karagöz\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormWishList.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Fatma Karakaya\Desktop\----\nesne proje\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormAdminLogin.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.exe
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormAdminLogin.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormAdmin.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormHome.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormShopping.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormSingUp.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.FormWishList.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.exe
+C:\Users\FarukAydın\Desktop\Bookstore_2\Bookstore\BookStore\obj\Debug\BookStore.pdb

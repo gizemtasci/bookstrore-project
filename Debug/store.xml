@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<store name="Bookstore">
+  <products>
+    <books>
+      <book>
+        <name>Cesur Yeni Dünya</name>
+        <price>16</price>
+        <author>Aldous Huxley</author>
+        <publisher>Ithaki Yayinlari</publisher>
+        <page>349</page>
+        <isbn>975690216</isbn>
+        <stock>30</stock>
+      </book>
+      <book>
+        <name>Ulysses</name>
+        <price>40.00</price>
+        <author>James Joyce</author>
+        <publisher>Yapi Kredi Yayinlari</publisher>
+        <page>844</page>
+        <isbn>975363148</isbn>
+        <stock>60</stock>
+      </book>
+      <book>
+        <name>1984</name>
+        <price>26.00</price>
+        <author>George Orwell</author>
+        <publisher>Can Yayinlari</publisher>
+        <page>352</page>
+        <isbn>978975510</isbn>
+        <stock>150</stock>
+      </book>
+      <book>
+        <name>Hayvan Çiftliği</name>
+        <price>15.00</price>
+        <author>George Orwell</author>
+        <publisher>Can Yayinlari</publisher>
+        <page>352</page>
+        <isbn>975070011</isbn>
+        <stock>255</stock>
+      </book>
+      <book>
+        <name>İki Şehrin Hikayesi</name>
+        <price>19.50</price>
+        <author>Charles Dickens</author>
+        <publisher>Antik Yayinlari</publisher>
+        <page>464</page>
+        <isbn>605498504</isbn>
+        <stock>45</stock>
+      </book>
+    </books>
+    <magazines>
+      <magazine>
+        <name>National Geographic</name>
+        <price>10.00</price>
+        <issue>December 2016</issue>
+        <type>Science</type>
+        <stock>145</stock>
+      </magazine>
+      <magazine>
+        <name>Cosmopolitan</name>
+        <price>9.50</price>
+        <issue>February 2017</issue>
+        <type>Fashion</type>
+        <stock>55</stock>
+      </magazine>
+      <magazine>
+        <name>Forbes</name>
+        <price>10.00</price>
+        <issue>January 2017</issue>
+        <type>Business</type>
+        <stock>36</stock>
+      </magazine>
+      <magazine>
+        <name>Men's Health</name>
+        <price>8.25</price>
+        <issue>March 2016</issue>
+        <type>Sport</type>
+        <stock>12</stock>
+      </magazine>
+      <magazine>
+        <name>PCWorld</name>
+        <price>9.75</price>
+        <issue>April 2017</issue>
+        <type>Computer</type>
+        <stock>50</stock>
+      </magazine>
+    </magazines>
+    <musics>
+      <music>
+        <name>Thriller</name>
+        <price>55.90</price>
+        <singer>Micheal Jackson</singer>
+        <type>Pop</type>
+        <stock>50</stock>
+      </music>
+      <music>
+        <name>Revolver</name>
+        <price>45.60</price>
+        <singer>The Beatles</singer>
+        <type>Rock-Pop</type>
+        <stock>36</stock>
+      </music>
+      <music>
+        <name>The Dark Side Of The Moon</name>
+        <price>63.90</price>
+        <singer>Pink Floyd</singer>
+        <type>Progressive rock</type>
+        <stock>70</stock>
+      </music>
+      <music>
+        <name>You Want It Darker</name>
+        <price>48.99</price>
+        <singer>Leonard Cohen</singer>
+        <type>Folk</type>
+        <stock>85</stock>
+      </music>
+      <music>
+        <name>Tchaikovsky: Violin Concerto</name>
+        <price>24.90</price>
+        <singer>Joshua Bell</singer>
+        <type>Classic</type>
+        <stock>15</stock>
+      </music>
+    </musics>
+  </products>
+</store>
+     
+      
+      
+      
+    
+    
+  
+  
